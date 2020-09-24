@@ -24,12 +24,12 @@ In this step, you have to annotate a paper. Please follow the steps listed below
 
 #### Some tips while using the tool
 
--   Don't be afraid to make mistakes (basically everything you do is correct)! The tools tries to guide you whenever possible. But if there is something you are not sure about, just continue. You will not be graded in anyway :)
+-   Don't be afraid to make mistakes (basically everything you do is correct)! The tools tries to guide you whenever possible. But if there is something you are not sure about, just continue. You will not be graded in anyway 😊
 -   A completion bar is shown at the left top of the tool. This is only to guide you during the annotation process. It is **not required** to reach 100% before saving. You can save whenever you feel you are ready
 -   Try not to annotate more than 3 times the same type (e.g., do not make 4 annotations of _background_ information). Only annotate the most important sentences
 
 ### 2. Fill out the questionnaire
 
-After saving your paper, you can fill out the online questionnaire. The questionnaire consists of 5 pages which all take about the same amount of time. [Please click here to go to the questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSei2JGMp1mzGaZn353jE1h982xJQh0DxSVWPlGNRYrV_irdcQ/viewform?usp=sf_link). _Tip: read the questions carefully, for some questions a high rating is positive, while for others it is negative. We did this to keep you sharp_ ;)
+After saving your paper, you can fill out the online questionnaire. The questionnaire consists of 5 pages which all take about the same amount of time. [Please click here to go to the questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSei2JGMp1mzGaZn353jE1h982xJQh0DxSVWPlGNRYrV_irdcQ/viewform?usp=sf_link). _Tip: read the questions carefully, for some questions a high rating is positive, while for others it is negative. We did this to keep you sharp_ 😉
 
 After filling out the questionnaire, you are done with the evaluation. Thank you again for participating, we appreciate it a lot!
