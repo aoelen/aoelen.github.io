@@ -34,4 +34,4 @@ In this step, you have to annotate a paper. Please follow the steps listed below
 
 After saving your paper, you can fill out the online questionnaire. The questionnaire consists of 5 pages which all take about the same amount of time. <a href="https://docs.google.com/forms/d/e/1FAIpQLSei2JGMp1mzGaZn353jE1h982xJQh0DxSVWPlGNRYrV_irdcQ/viewform?usp=sf_link" target="_blank">Please click here to go to the questionnaire</a>. _Tip: read the questions carefully, for some questions a high rating is positive, while for others it is negative. We did this to keep you sharp_ 😉
 
-After filling out the questionnaire, you are done with the evaluation. Thank you again for participating, we appreciate it a lot!
+After filling out the questionnaire, you are done with the evaluation. Thank you again for participating, we appreciate it a lot! By the way, because of your hard work you deserve a chocolate bar 🍫  we will reach out to you soon! 
