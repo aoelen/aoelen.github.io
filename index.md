@@ -19,7 +19,7 @@ The evaluation consists of two parts: 1) Annotate your paper, 2) Fill out the qu
 In this step, you have to annotate a paper. Please follow the steps listed below (please read all steps and tips before annotating your paper).
 
 1. Choose a paper where **you are (co)author** of, or choose a paper that you recently read
-2. Visit the [ORKG Paper Annotator](https://www.orkg.org/orkg/pdf-text-annotation)
+2. Visit the <a href="https://www.orkg.org/orkg/pdf-text-annotation" target="_blank">ORKG Paper Annotator</a>
 3. Upload your paper to the abstract annotator
 4. A help tour tour will appear, explaining the most important features of the system. Please read them carefully
 5. Annotate your paper, save the results and come back to this page
@@ -32,6 +32,6 @@ In this step, you have to annotate a paper. Please follow the steps listed below
 
 ### 2. Fill out the questionnaire
 
-After saving your paper, you can fill out the online questionnaire. The questionnaire consists of 5 pages which all take about the same amount of time. [Please click here to go to the questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSei2JGMp1mzGaZn353jE1h982xJQh0DxSVWPlGNRYrV_irdcQ/viewform?usp=sf_link). _Tip: read the questions carefully, for some questions a high rating is positive, while for others it is negative. We did this to keep you sharp_ 😉
+After saving your paper, you can fill out the online questionnaire. The questionnaire consists of 5 pages which all take about the same amount of time. <a href="https://docs.google.com/forms/d/e/1FAIpQLSei2JGMp1mzGaZn353jE1h982xJQh0DxSVWPlGNRYrV_irdcQ/viewform?usp=sf_link" target="_blank">Please click here to go to the questionnaire</a>. _Tip: read the questions carefully, for some questions a high rating is positive, while for others it is negative. We did this to keep you sharp_ 😉
 
 After filling out the questionnaire, you are done with the evaluation. Thank you again for participating, we appreciate it a lot!
