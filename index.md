@@ -1,5 +1,7 @@
 # ORKG Paper Annotator evaluation
 
+<center><img src="./logo.svg" width="300"></center>
+
 ## Introduction
 
 Thank you for participating in this Open Research Knowledge Graph (ORKG) user study. In total this evaluation will take about 30 minutes. The evaluation consists of two parts, firstly you are asked to use a new ORKG paper entry system. Secondly, you should fill out the evaluation form where you describe your experience with the system.
