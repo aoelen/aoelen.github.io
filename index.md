@@ -20,7 +20,7 @@ In this step, you have to annotate a paper. Please follow the steps listed below
 
 #### Some tips while using the tool
 
--   Some sentences will be highlighted automatically. These sentences might be of interest, but you can ignore them if they are not. Also make sure that (apart from the automatically highlighted sentences), you are expected to also select text yourself within the paper
+-   Some sentences will be automatically highlighted in grey color. These sentences might be of interest, but you can ignore them if they are not. Also make sure that (apart from the automatically highlighted sentences), you are expected to also select text yourself within the paper
 -   Don't be afraid to make mistakes (basically everything you do is correct)! The tools tries to guide you whenever possible. But if there is something you are not sure about, just continue. You will not be graded in anyway 😊
 -   A completion bar is shown at the left top of the tool. This is only to guide you during the annotation process. It is **not required** to reach 100% before saving. You can save whenever you feel you are ready
 -   Try not to annotate more than 3 times the same type (e.g., do not make 4 annotations of _background_ information). Only annotate the most important sentences
