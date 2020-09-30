@@ -16,7 +16,7 @@ The evaluation consists of two parts: 1) Annotate your paper, 2) Fill out the qu
 
 ### 1. Annotate your paper
 
-In this step, you have to annotate a paper. Please follow the steps listed below (please read all steps and tips before annotating your paper).
+In this step, you have to annotate a paper. Please follow the steps listed below.
 
 #### Some tips while using the tool
 
@@ -28,7 +28,7 @@ In this step, you have to annotate a paper. Please follow the steps listed below
 #### Participating in the experiment
 
 1. Choose a paper where **you are (co)author** of, or choose a paper that you recently read
-2. Visit the <a href="https://www.orkg.org/orkg/pdf-text-annotation" target="_blank">ORKG Paper Annotator</a>
+2. Visit the <a href="https://www.orkg.org/orkg/pdf-text-annotation" target="_blank">ORKG Paper Annotator</a> (only use this direct link, this page is not accessible from the ORKG website itself)
 3. Upload your paper to the abstract annotator
 4. A help tour tour will appear, explaining the most important features of the system. Please read them carefully
 5. Annotate your paper, save the results and come back to this page
@@ -38,3 +38,9 @@ In this step, you have to annotate a paper. Please follow the steps listed below
 After saving your paper, you can fill out the online questionnaire. The questionnaire consists of 5 pages which all take about the same amount of time. <a href="https://docs.google.com/forms/d/e/1FAIpQLSei2JGMp1mzGaZn353jE1h982xJQh0DxSVWPlGNRYrV_irdcQ/viewform?usp=sf_link" target="_blank">Please click here to go to the questionnaire</a>. _Tip: read the questions carefully, for some questions a high rating is positive, while for others it is negative. We did this to keep you sharp_ 😉
 
 After filling out the questionnaire, you are done with the evaluation. Thank you again for participating, we appreciate it a lot! By the way, because of your hard work you deserve a chocolate bar 🍫 we will reach out to you soon!
+
+# Interface
+
+The interface looks like this:
+
+<img src="screencast.gif">
