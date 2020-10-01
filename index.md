@@ -6,6 +6,8 @@
 
 Thank you for participating in this Open Research Knowledge Graph (ORKG) user study. In total this evaluation will take about 30 minutes. The evaluation consists of two parts, firstly you are asked to use a new ORKG paper entry system. Secondly, you should fill out the evaluation form where you describe your experience with the system.
 
+The deadline for participation is **October 7, 2020**.
+
 ## Goal
 
 We are always looking for new ways to make adding a paper to ORKG easier. The purpose of this evaluation is to let you use a new tool, called the **Paper Annotator** tool. The goal of this tool is to annotate the most important sentences within a paper. Artificial Intelligence (AI) techniques are used to support you during this process. In the end, a Knowledge Graph is automatically created based on your annotations.
