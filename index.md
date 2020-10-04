@@ -31,7 +31,7 @@ In this step, you have to annotate a paper. Please follow the steps listed below
 
 1. Choose a paper where **you are (co)author** of, or choose a paper that you recently read
 2. Visit the <a href="https://www.orkg.org/orkg/pdf-text-annotation" target="_blank">ORKG Paper Annotator</a>
-3. Upload your paper to the abstract annotator
+3. Upload your paper to the annotator (license information: the file you upload is only used during the annotation task will _not be published or stored_ on our servers)
 4. A help tour will appear, explaining the most important features of the system. Please read them carefully
 5. Annotate your paper, save the results and come back to this page
 
