@@ -46,3 +46,7 @@ After filling out the questionnaire, you are done with the evaluation. Thank you
 The interface looks like this:
 
 <img src="screencast.gif">
+
+# License information
+
+As already mentioned, the article you upload is only used during the annotation task will not be published or stored on our servers. The text annotations you make are publicly published under to the [ORKG data license](https://www.orkg.org/orkg/license).
